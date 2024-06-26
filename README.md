@@ -2,7 +2,8 @@ Name:Nagireddy Avinash Reddy
 Company:CODTECH IT SOLUTIONS 
 ID:CT06ES315
 Domain:Embedded Systems
-Duration:15 June to 30jul 2024 Mentor:N.santhosh kumar
+Duration:15 June to 30jul 2024
+Mentor:G .Sravani
 Overview of the project: ![Screenshot 2024-06-25 201325](https://github.com/Avinash832860/task2/assets/173812712/b581913a-0e6f-4c01-bde8-6c336d59ff7c)
 Experiment: Temperature and Humidity Monitoring with DHT Sensor 
 Objective: It measures the surrounding air and gives a calibrated digital signal output of temperature and relative humidity.
